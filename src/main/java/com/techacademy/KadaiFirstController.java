@@ -20,7 +20,6 @@ public class KadaiFirstController {
 
         return week.toString();
     }
-
     /*
      * 日付をLocalDate型に変換
      * LocalDate ld = LocalDate.of(year,month,day);
